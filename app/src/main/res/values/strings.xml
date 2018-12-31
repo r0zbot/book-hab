@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BookHab</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Daniel</string>
+    <string name="nav_header_subtitle">daniel@daniel.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="time_options">
+        <item>5m</item>
+        <item>10m</item>
+        <item>15m</item>
+        <item>Custom…</item>
+    </string-array>
+</resources>
